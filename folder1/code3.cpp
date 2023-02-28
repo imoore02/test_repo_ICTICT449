@@ -1,3 +1,5 @@
+//this function returns the mean of integers in an in array//
+
 double array_mean(int array[], int n)
 {
 	double mean = 0.0;
