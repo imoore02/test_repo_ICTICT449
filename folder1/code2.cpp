@@ -1,3 +1,5 @@
+//this function returns the sum of integers in an int array//
+
 int array_sum(int array[], int n)
 {
 	int sum = 0;
