@@ -1,3 +1,5 @@
+//this function will count the number of even numbers in an int array//
+
 int count(int array[], int n)
 {
 	int count = 0;
